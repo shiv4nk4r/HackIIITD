@@ -10,7 +10,7 @@
 }
 
 .content__title {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 10vw;
 	font-weight: normal;
 	color: var(--color-title);
